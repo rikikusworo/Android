@@ -1,0 +1,16 @@
+<resources>
+    <string name="app">Samsung Galaxy S10</string>
+    <string name="nama">Samsung Galaxy S10</string>
+    <string name="deskripsi">Samsung S10 merupakan varian samsung seri S yang terbaru. Dengan tekhnologi terbaru, tampilan layar terbaik. Dibanderol dengan harga yang cukup mahal yaitu Rp 12.000.000. Harga itu sesuai dengan spesifikasi yang mantap.</string>
+    <string name="cpu">Qualcomm Snapdragon 855 atau Exynos 9820</string>
+    <string name="layar">6,1 inci Quad HD (3.040x1.440) Rasio layar 19:9, 550ppi</string>
+    <string name="ram">8GB Ram</string>
+    <string name="internal">512GB</string>
+    <string name="os">Android</string>
+    <string name="batre">3400 mAh</string>
+    <string name="kamera">Triple Kamera : Telephoto 12MP, Wide-angle 12, Ultra wide 16 mp</string>
+    <string name="jaringan">3G/4G/5G</string>
+    <string name="fitur">AR Emoji, Artistic Live Focus, Smart Composition, Scene Optimizer</string>
+    <string name="konektivitas">Blutooth 5.0, NFC, Enhanced 4x4 MIMO, up to 7CA, LAA, LTE Cat.20.2.0GBps download</string>
+    <string name="app_name">dimens</string>
+</resources>
